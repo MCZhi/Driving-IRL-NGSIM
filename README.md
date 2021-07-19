@@ -8,9 +8,7 @@ This repo is the implementation of the paper "Driving Behavior Modeling using Na
 ## Getting started
 Install the dependent package.
 ```shell
-git add README.md
-git commit -m "Added: README"
-git push
+pip install -r requirements.txt
 ```
 
 Download the NGSIM dataset and put it in the directory.
