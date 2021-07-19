@@ -18,21 +18,21 @@ If you find this repo to be useful in your research, please consider citing our 
 ```
 
 ## Getting started
-Install the dependenet package
+Install the dependent package.
 ```shell
 git add README.md
 git commit -m "Added: README"
 git push
 ```
 
-Download the NGSIM dataset and put it in the directory
+Download the NGSIM dataset and put it in the directory.
 ```shell
 git add README.md
 git commit -m "Added: README"
 git push
 ```
 
-Run pythoon file
+Run IRL personalized or IRL general.
 ```shell
 git add README.md
 git commit -m "Added: README"
