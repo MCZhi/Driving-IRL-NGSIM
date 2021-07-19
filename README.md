@@ -21,6 +21,8 @@ git push
 Run IRL personalized or IRL general
 ```shell
 python personal_IRL.py 
+```
+```shell
 python general_IRL.py 
 ```
 
