@@ -11,11 +11,9 @@ Install the dependent package
 pip install -r requirements.txt
 ```
 
-Download the processed NGSIM dataset and put it in the directory
+Download the NGSIM dataset from [this website](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj) (export to csv file) and run NGSIM_env/data/dump_data.py along with the path of the csv file
 ```shell
-git add README.md
-git commit -m "Added: README"
-git push
+python dump_data.py sdlj.csv
 ```
 
 Run IRL personalized or IRL general
