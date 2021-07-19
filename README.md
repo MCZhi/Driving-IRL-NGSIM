@@ -6,7 +6,7 @@ This repo is the implementation of the paper "Driving Behavior Modeling using Na
 > IEEE Transactions on Intelligent Transportation Systems
 
 ## Getting started
-Install the dependent package.
+Install the dependent package
 ```shell
 pip install -r requirements.txt
 ```
