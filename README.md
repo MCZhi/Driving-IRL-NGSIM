@@ -11,19 +11,20 @@ Install the dependent package
 pip install -r requirements.txt
 ```
 
-Download the NGSIM dataset and put it in the directory.
+Download the processed NGSIM dataset and put it in the directory
 ```shell
 git add README.md
 git commit -m "Added: README"
 git push
 ```
 
-Run IRL personalized or IRL general.
+Run IRL personalized or IRL general
 ```shell
 git add README.md
 git commit -m "Added: README"
 git push
 ```
+
 ## Reference
 If you find this repo to be useful in your research, please consider citing our work
 ```
