@@ -18,7 +18,21 @@ If you find this repo to be useful in your research, please consider citing our 
 ```
 
 ## Getting started
+Install the dependenet package
+```shell
+git add README.md
+git commit -m "Added: README"
+git push
+```
 
+Download the NGSIM dataset and put it in the directory
+```shell
+git add README.md
+git commit -m "Added: README"
+git push
+```
+
+Run pythoon file
 ```shell
 git add README.md
 git commit -m "Added: README"
