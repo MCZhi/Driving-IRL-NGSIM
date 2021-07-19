@@ -20,9 +20,8 @@ git push
 
 Run IRL personalized or IRL general
 ```shell
-git add README.md
-git commit -m "Added: README"
-git push
+python personal_IRL.py 
+python python general_IRL.py 
 ```
 
 ## Reference
