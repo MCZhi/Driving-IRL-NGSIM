@@ -2,7 +2,7 @@
 This repo is the implementation of the paper "Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning". It contains NGSIM env that can replay vehicle trajectories in the NGSIM dataset while also simulate some interactive behaviors, as well as inverse reinforcement learning (IRL) implementation in this paper for learning driver's reward function.
 
 **Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning**
-<br> [Zhiyu Huang](https://scholar.google.com/citations?user=aLZEVCsAAAAJ&hl=en), [Jingda Wu](https://scholar.google.com/citations?user=icu-ZFAAAAAJ&hl=en), [Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en) 
+<br> [Zhiyu Huang](https://mczhi.github.io/), [Jingda Wu](https://scholar.google.com/citations?user=icu-ZFAAAAAJ&hl=en), [Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en) 
 <br> [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
 <br> **[[Paper]](https://ieeexplore.ieee.org/document/9460807)**&nbsp;**[[arXiv]](https://arxiv.org/abs/2010.03118)**
 
