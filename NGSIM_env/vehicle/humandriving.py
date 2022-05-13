@@ -101,7 +101,6 @@ class NGSIMVehicle(IDMVehicle):
         # Longitudinal: IDM
         action['acceleration'] = self.acceleration(ego_vehicle=self, front_vehicle=front_vehicle, rear_vehicle=rear_vehicle)
         action['acceleration'] = np.clip(action['acceleration'], -self.ACC_MAX, self.ACC_MAX)
-        self.check_collision
         self.action = action
 
     def step(self, dt):
